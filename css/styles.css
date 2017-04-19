@@ -1,4 +1,11 @@
 /* Styling */
 body {
-    background: rgba(0, 240, 194, 0.71);
+    background: lightcoral;
+}
+
+h1 {
+  color: darkseagreen;
+  font-size: 4em;
+  text-transform: uppercase;
+  text-align: center;
 }
